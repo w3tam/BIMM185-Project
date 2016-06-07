@@ -1,0 +1,57 @@
+Comment[ArrayExpressAccession]	E-GEOD-25472
+Public Release Date	2011-12-01							
+Investigation Title	Gene expression of LNCaP human prostate cells by cholesterol diet							
+Comment[Submitted Name]	Gene expression of LNCaP human prostate cells by cholesterol diet
+Experiment Description	Understanding the systemic regulation of normal prostate gene expression by cholesterol diet is critical for deciphering the mechanisms responsible for the transition from healthy to pathogenic prostate conditions. To understand mechanism under cholesterol effect on prostate, we performed microarray analysis using LNCaP human prostate cells cultured in low cholesterol medium. The RNA is obtained from LNCaP human prostate cells serum-starved for 0h, 3h, 16h followed by CLM medium.							
+Date of Experiment								
+Term Source Name	EFO
+Term Source Version								
+Term Source File	http://www.ebi.ac.uk/efo/efo.owl							
+Person Last Name	Kim	Kim	Hwang	Kim				
+Person First Name	Taek-Kyun	Taek-Kyun	Daehee	Jayoung				
+Person Mid Initials								
+Person Email	geo@ncbi.nlm.nih.gov							
+Person Affiliation	POSTECH							
+Person Phone								
+Person Fax								
+Person Address	Interdisciplinary Bioscience and Bioengineering, POSTECH, San 31, Hyoja-dong, Nam-gu, Pohang, Gyeongbuk, South Korea							
+Person Roles	submitter							
+Person Roles Term Source REF								
+Person Roles Term Accession Number								
+Normalization Type								
+Normalization Term Accession Number								
+Normalization Term Source REF								
+Replicate Type								
+Replicate Term Accession Number								
+Replicate Term Source REF								
+Experimental Design								
+Experimental Design Term Accession Number								
+Experimental Design Term Source REF								
+Quality Control Type								
+Quality Control Term Accession Number								
+Quality Control Term Source REF								
+Protocol Name	P-GSE25472-1	P-GSE25472-6	P-GSE25472-3	P-GSE25472-8	P-GSE25472-7	P-GSE25472-2	P-GSE25472-4	P-GSE25472-5
+Protocol Description	ID_REF = <br>VALUE = quantile normalized signal intensity	Microarray hybridization was performed by following general Affymetrix protocol at Dana-Farber Cancer Institute microarray core facility.	LNCaP human prostate tumor cells were purchased from American Type Culture Collection (ATCC, Manassas, VA) and kept cultured in RPMI1640 media (Invitrogen, Carlsbad, CA) supplemented with 10% FBS and 1% Penicillin/Streptomycin at 37°C under 5% CO2.	Data normalization and summarization of expression values for each probe were calculated using gcRMA method. Quantile normalization of the data was performed with gcrma R/Bioconductor package v2.11.	Scanning of microarrays were performed by following general Affymetrix protocol at Dana-Farber Cancer Institute microarray core facility.	LNCap human prostate tumor cells were serum-starved for 0h, 3h and 16h followed by CLM medium.	The RNAs were extracted using a Qiagen RNEasy tissue extraction kit (Qiagen Inc., Valencia, California).	Biotinylated cRNA were prepared according to the standard Affymetrix protocol from 6 ug total RNA (Expression Analysis Technical Manual, 2001, Affymetrix).
+Protocol Software								
+Protocol Hardware								
+Protocol Contact								
+Protocol Type	bioassay_data_transformation	hybridization	grow	feature_extraction	image_aquisition	specified_biomaterial_action	nucleic_acid_extraction	labeling
+Protocol Term Source REF								
+Protocol Term Accession Number								
+Experimental Factor Name	TREATMENT GROUP							
+Experimental Factor Type	treatment group							
+Experimental Factor Term Source REF								
+Experimental Factor Term Accession Number								
+Publication Title								
+Publication Author List								
+PubMed ID								
+Publication DOI								
+Publication Status								
+Publication Status Term Source REF								
+Publication Status Term Accession Number								
+Comment[SecondaryAccession]	GSE25472							
+Comment[GEOLastUpdateDate]	2011-12-02
+Comment[AEExperimentType]	transcription profiling by array							
+Comment[GEOReleaseDate]	2011-12-01
+Comment[ArrayExpressSubmissionDate]	2010-11-18
+SDRF File	E-GEOD-25472.sdrf.txt
