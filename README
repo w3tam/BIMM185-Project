@@ -1,0 +1,23 @@
+Predicting Food's Effects on Cancers Based on Chemical's Effects on Gene Expression
+
+by Wilburt Tam
+class: BIMM185
+University of California San Diego
+
+Output Files:
+	FinalOutput.txt
+
+Summary of Analysis: 
+	summary.txt
+
+Run:
+	$python ChemicalScore.py
+
+
+This script is intended to provide scores for different foods and food 
+chemicals associated with 53 different cancer cell lines. The scores
+are intended to be used to predict which foods and chemicals are most
+effective at treating different cancers. A positive score represents a positive
+prediction in which the food or chemical is expected to the treatment of the
+associated cancer while a negative score means that the food or chemical is
+expected to contribute to the progression of cancer.

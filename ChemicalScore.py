@@ -1,4 +1,4 @@
-#Predicting Foods to Treat Cancers Based on Chemical Induced Gene Expression
+#Predicting Food's Effects on Cancers Based on Chemical's Effects on Gene Expression
 #															Wilburt Tam
 #															BIMM 185
 #
@@ -111,8 +111,11 @@ def score(cancer, chem):
 				cancerScore = float(j)
 				if abs(cancerScore) > 0.5:
 					tempScore = float(value)/cancerScore
-					if tempScore > 1: tempScore = 1
-					elif tempScore < -1: tempScore = -1
+					if abs(tempScore) < 0.5: continue
+					if tempScore > 1: 
+						tempScore = 1
+					elif tempScore < -1: 
+						tempScore = -1
 					chemScore[i] -= (tempScore)
 					count[i] += 1
 				else: continue

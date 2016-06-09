@@ -1,0 +1,240 @@
+## ug content per 100 grams of food	
+Milk, nonfat, fluid, with added vitamin A and vitamin D	
+Egg fried	
+Chicken breast, meat, roasted	
+Beef, retail cuts, separable fat, cooked	
+cheddar-cheese	
+pork-sausage	
+pink-salmon-cooked	
+soybeans	
+endive	
+tomatoes	
+radicchio	
+jalapeno	
+carrots	
+potato	
+celery	
+eggplant	
+asparagus	
+kale	
+spinach	
+broccoli	
+garlic	
+apple	
+sesame-seed	
+	
+>calcitriol.txt	
+Milk, nonfat, fluid, with added vitamin A and vitamin D	1.2
+Egg fried	2.2
+Chicken breast, meat, roasted	0.1
+Beef, retail cuts, separable fat, cooked	0.4
+cheddar-cheese	0.6
+pork-sausage	1.4
+pink-salmon-cooked	13
+soybeans	0
+endive	0
+tomatoes	0
+radicchio	0
+jalapeno	0
+carrots	0
+potato	0
+celery	0
+eggplant	0
+asparagus	0
+kale	0
+spinach	0
+broccoli	0
+garlic	0
+apple	0
+sesame-seed	0
+>cholesterol.txt	
+Milk, nonfat, fluid, with added vitamin A and vitamin D	2
+Egg fried	401
+Chicken breast, meat, roasted	85
+Beef, retail cuts, separable fat, cooked	95
+cheddar-cheese	99
+pork-sausage	86
+pink-salmon-cooked	55
+soybeans	0
+endive	0
+tomatoes	0
+radicchio	0
+jalapeno	0
+carrots	0
+potato	0
+celery	0
+eggplant	0
+asparagus	0
+kale	0
+spinach	0
+broccoli	0
+garlic	0
+apple	0
+sesame-seed	0
+>folate.txt	
+Milk, nonfat, fluid, with added vitamin A and vitamin D	6
+Egg fried	51
+Chicken breast, meat, roasted	4
+Beef, retail cuts, separable fat, cooked	0
+cheddar-cheese	27
+pork-sausage	1
+pink-salmon-cooked	5
+soybeans	111
+endive	142
+tomatoes	15
+radicchio	60
+jalapeno	27
+carrots	19
+potato	9
+celery	36
+eggplant	22
+asparagus	52
+kale	141
+spinach	194
+broccoli	71
+garlic	3
+apple	3
+sesame-seed	97
+>omega-3.txt	
+Milk, nonfat, fluid, with added vitamin A and vitamin D	0
+Egg fried	0.06
+Chicken breast, meat, roasted	0.01
+Beef, retail cuts, separable fat, cooked	0.07
+cheddar-cheese	0.12
+pork-sausage	0.25
+pink-salmon-cooked	0.33
+soybeans	0.08
+endive	0
+tomatoes	0
+radicchio	0
+jalapeno	0.05
+carrots	0
+potato	0.08
+celery	0
+eggplant	0
+asparagus	0
+kale	0.01
+spinach	0
+broccoli	0
+garlic	0
+apple	0
+sesame-seed	0.06
+>vitamin_c.txt	
+Milk, nonfat, fluid, with added vitamin A and vitamin D	1.1
+Egg fried	0
+Chicken breast, meat, roasted	0
+Beef, retail cuts, separable fat, cooked	0
+cheddar-cheese	0
+pork-sausage	0
+pink-salmon-cooked	0
+soybeans	15.3
+endive	6.5
+tomatoes	13.7
+radicchio	8
+jalapeno	118.6
+carrots	5.9
+potato	13.5
+celery	3.1
+eggplant	2.2
+asparagus	5.6
+kale	120
+spinach	28.1
+broccoli	89.2
+garlic	31.2
+apple	4.6
+sesame-seed	0
+>Quercetin.txt	
+Milk, nonfat, fluid, with added vitamin A and vitamin D	0
+Egg fried	0
+Chicken breast, meat, roasted	0
+Beef, retail cuts, separable fat, cooked	0
+cheddar-cheese	0
+pork-sausage	0
+pink-salmon-cooked	0
+soybeans	0.03
+endive	0
+tomatoes	0.58
+radicchio	31.51
+jalapeno	5.07
+carrots	0.21
+potato	1.19
+celery	0.39
+eggplant	0.04
+asparagus	13.98
+kale	22.58
+spinach	3.97
+broccoli	3.26
+garlic	0.19
+apple	4.01
+sesame-seed	0
+>Daidzein.txt	
+Milk, nonfat, fluid, with added vitamin A and vitamin D	0
+Egg fried	0.02
+Chicken breast, meat, roasted	0.2
+Beef, retail cuts, separable fat, cooked	0.67
+cheddar-cheese	0
+pork-sausage	0.25
+pink-salmon-cooked	0
+soybeans	12.86
+endive	0
+tomatoes	0
+radicchio	0
+jalapeno	0
+carrots	0
+potato	0
+celery	0
+eggplant	0
+asparagus	0.03
+kale	0
+spinach	0
+broccoli	0
+garlic	0.01
+apple	0
+sesame-seed	0
+>Genistein.txt	
+Milk, nonfat, fluid, with added vitamin A and vitamin D	0
+Egg fried	0.02
+Chicken breast, meat, roasted	0.25
+Beef, retail cuts, separable fat, cooked	1.09
+cheddar-cheese	0
+pork-sausage	0.4
+pink-salmon-cooked	0
+soybeans	18.77
+endive	0
+tomatoes	0
+radicchio	0
+jalapeno	0
+carrots	0
+potato	0
+celery	0
+eggplant	0
+asparagus	0
+kale	0
+spinach	0
+broccoli	0
+apple	0
+sesame-seed	0
+>Phloridzin.txt	
+Milk, nonfat, fluid, with added vitamin A and vitamin D	0
+Egg fried	0
+Chicken breast, meat, roasted	0
+Beef, retail cuts, separable fat, cooked	0
+cheddar-cheese	0
+pork-sausage	0
+pink-salmon-cooked	0
+soybeans	0
+endive	0
+tomatoes	9
+radicchio	0
+jalapeno	0
+carrots	0
+potato	0
+celery	0
+eggplant	0
+asparagus	0
+kale	0
+spinach	0
+broccoli	0
+garlic	0
+apple	2.69
+sesame-seed	0
